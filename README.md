@@ -1,1 +1,1 @@
-These codes were created in spring 2023 to process Ameriflux data. Many of these codes are likely in need of optimization. These were created for a planetary boundary layer class taught by Dr. Camilo-Rey Sanchez at NC State University.
+These codes were created in spring 2023 to process Ameriflux data. Many of these codes are likely in need of optimization. These were created for a planetary boundary layer class taught by Dr. Camilo Rey-Sanchez at NC State University.
